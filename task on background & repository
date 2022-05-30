@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-18" />
+    <title>CSS ASSIGNMENT</title>
+    <link rel="stylesheet" href="background.css" type="text/css" />
+  </head>
+
+  <body>
+    <h1>5 Vaping Facts You Need to Know</h1>
+    <div>
+      <p>
+        If you have thought about trying to kick a smoking habit, you’re not
+        alone. Nearly 7 of 10 smokers say they want to stop. Quitting smoking is
+        one of the best things you can do for your health smoking harms nearly
+        every organ in your body, including your heart. Nearly one-third of
+        deaths from heart disease are the result of smoking and secondhand smoke
+      </p>
+      <p>
+        You might be tempted to turn to electronic cigarettes (e-cigarettes,
+        vape pens, and other nondisposable and disposable vaping devices) as a
+        way to ease the transition from traditional cigarettes to not smoking at
+        all.
+      </p>
+      <p>
+        But is smoking e-cigarettes (also called vaping) better for you than
+        using tobacco products? Can e-cigarettes help you to stop smoking once
+        for all? Michael Blaha, M.D., M.P.H., director of clinical research at
+        the Johns Hopkins Ciccarone Center for the Prevention of Heart Disease,
+        shares health information about vaping.
+      </p>
+    </div>
+    <h2>1: Vaping is less harmful than smoking, but it’s still not safe.</h2>
+    <div>
+      <p>
+        E-cigarettes heat nicotine (extracted from tobacco), flavorings and
+        other chemicals to create an aerosol that you inhale. Regular tobacco
+        cigarettes contain 7,000 chemicals, many of which are toxic. While we
+        don’t know exactly what chemicals are in e-cigarettes, Blaha says
+        “There’s almost no doubt that vaping exposes you to fewer toxic
+        chemicals than smoking traditional cigarettes.”
+      </p>
+      <p>
+        However, there has been an outbreak of lung injuries and associated with
+        vaping. In February 2020, the Centers for Disease Control and Prevention
+        (CDC) confirmed 2,807 cases of e-cigarette or vaping use-associated lung
+        injury (EVALI) and 68 deaths attributed to that condition
+      </p>
+      <p>
+        “These cases appear to predominantly affect people who modify their
+        vaping devices or use black market modified e-liquids. This is
+        especially true for vaping products containing THC,” explains Blaha.
+      </p>
+    </div>
+    <h3>2: Research suggests vaping is bad for your heart and lungs.</h3>
+    <div>
+      <p>
+        Nicotine is the primary agent in regular cigarettes and e-cigarettes,
+        and it is highly addictive. It causes you to crave a smoke and suffer
+        withdrawal symptoms if you ignore the craving. Nicotine is a toxic
+        substance. It raises your blood pressure and spikes your adrenaline,
+        which increases your heart rate and the likelihood of having a heart
+        attack.
+      </p>
+      <p>
+        Is vaping bad for you? There are many unknowns about vaping, including
+        what chemicals make up the vapor and how they affect physical health
+        over the long term. “People need to understand that e-cigarettes are
+        potentially dangerous to your health,” says Blaha.
+      </p>
+      <p>
+        “Emerging data suggests links to chronic lung disease and asthma, as
+        well as associations between dual use of e-cigarettes and smoking with
+        cardiovascular disease. You’re exposing yourself to all kinds of
+        chemicals that we don’t yet understand and that are probably not safe.”
+      </p>
+    </div>
+    <h4>3: Electronic cigarettes are just as addictive as traditional ones.</h4>
+    <div>
+      <p>
+        Both e-cigarettes and regular cigarettes contain nicotine, which
+        research suggests may be as addictive as heroin and cocaine.
+      </p>
+      <p>
+        What’s worse, says Blaha, many e-cigarette users get even more nicotine
+        than they would from a combustible tobacco product:
+      </p>
+      <p>
+        Users can buy extra-strength cartridges, which have a higher
+        concentration of nicotine, or increase the e-cigarette’s voltage to get
+        a greater hit of the substance.
+      </p>
+    </div>
+    <h5>4: Electronic cigarettes aren’t the best smoking cessation tool.</h5>
+    <div>
+      <p>
+        Although they’ve been promoted as an aid to help you quit smoking,
+        e-cigarettes have not received Food and Drug Administration approval as
+        smoking cessation devices.
+      </p>
+      <p>
+        A recent study found that most people who intended to use e-cigarettes
+        to kick the nicotine habit ended up continuing to use traditional and
+        e-cigarettes.
+      </p>
+      <p>
+        In light of the EVALI outbreak, the CDC advises people who use
+        e-cigarettes for smoking cessation to weigh the risks and benefits and
+        first consider use of other FDA-approved smoking cessation options.
+      </p>
+    </div>
+    <h6>5: A new generation is getting hooked on nicotine.</h6>
+    <div>
+      <p>
+        Among youth, e-cigarettes, especially the disposable kind, are more
+        popular than any traditional tobacco product. According to the 2021
+        National Youth Tobacco Survey, more than 2 million U.S. middle and high
+        school students reported using e-cigarettes in 2021, with more than 8 in
+        10 of those youth using flavored e-cigarettes.
+      </p>
+      <p>
+        According to Blaha, there are three reasons e-cigarettes may be
+        particularly enticing to young people. First, many teens believe vaping
+        is less harmful than smoking. Second, e-cigarettes have a lower per-use
+        cost than traditional cigarettes. Finally, youths and adults find the
+        lack of smoke appealing. With no smell, e-cigarettes reduce some of the
+        stigma of smoking.
+      </p>
+      <p>
+        “What I find most concerning about the rise of vaping is that people who
+        would’ve never smoked otherwise, especially youth, are taking up the
+        habit,” says Blaha. “It’s one thing if you convert from cigarette
+        smoking to vaping. It’s quite another thing to start up nicotine use
+        with vaping. And, getting hooked on nicotine often leads to using
+        traditional tobacco products down the road.”
+      </p>
+    </div>
+  </body>
+</html>
