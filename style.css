@@ -1,0 +1,29 @@
+h1 {
+  background-color: #ababcd;
+}
+
+h2 {
+  background-color: #feff5c;
+}
+
+h3 {
+  background-color: RGB(80, 75, 91);
+}
+
+h4 {
+  background-color: RGB(60, 188, 190);
+}
+
+h5 {
+  background-color: HSL(210, 63%, 50%);
+}
+
+h6 {
+  background-color: hsla(210, 63%, 50%, 0.5);
+}
+ss * {
+  background-size: 300px;
+  background-position: position;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
